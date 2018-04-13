@@ -26,7 +26,7 @@ Możesz dodać dodatkowe osoby do Twojej subskrypcji z różnymi poziomami dost�
 
 Po kliknięciu na przycisk _"Nowy zasób" _w lewej części portalu Twoim oczom ukaże się_ _Azure Marketplace - zbiór gotowych szablonów, które pomogą Ci stworzyć skomplikowane zasoby jednym kliknięciem. Znajdziesz tutaj zarówno gotowego WordPressa, skonfigurowane klastry maszyn do przetwarzania danych jak i maszynę wirtualną z Windows 10, na której będzie czekał najnowszy Visual Studio \(ten zasób wykorzystamy już za moment\).
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%284%29.png)
 
 ## Azure Cloud Shell
 
@@ -40,7 +40,7 @@ Możesz jednak skorzystać ze swojej znajomości Bash \(lub PowerShell\) bez opu
 
 Po kliknięciu na ikonę **&gt;\_** w dolnej części ekranu zobaczysz konsolę Azure Cloud Shell:
 
-![Kliknij ikonę &amp;gt;\_](.gitbook/assets/image%20%288%29.png)
+![Kliknij ikonę &amp;gt;\_](.gitbook/assets/image%20%289%29.png)
 
 {% hint style="info" %}
 **Usługa Azure Cloud Shell wymaga udziału plików platformy Azure do utrwalania plików. **Spowoduje to utworzenie nowego konta magazynu i naliczanie niewielkich miesięcznych opłat.
