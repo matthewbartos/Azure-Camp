@@ -6,5 +6,5 @@
 * [Hello Azure Portal](hello-azure-portal.md)
 * [Maszyny wirtualne](untitled.md)
 * [Web App](web-app.md)
-* Logic App
+* [Logic App](untitled-1.md)
 
