@@ -4,7 +4,7 @@
 * [Wprowadzenie](wprowadzenie.md)
 * [Aktywacja Azure Pass](aktywacja-azure-pass.md)
 * [Hello Azure Portal](hello-azure-portal.md)
-* Maszyny wirtualne
+* [Maszyny wirtualne](untitled.md)
 * Web App
 * Logic App
 

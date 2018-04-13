@@ -2,6 +2,8 @@
 
 ## Aktywacja kodu
 
+![](.gitbook/assets/image%20%284%29.png)
+
 Przejdź na stronę [https://www.microsoftazurepass.com/](https://www.microsoftazurepass.com/), na której po kliknięciu na _"Start" _pojawi się możliwość wpisania kodu otrzymanego przez Ciebie od mentora.
 
 {% hint style="info" %}
@@ -9,6 +11,10 @@ Otrzymasz **$50** \(lub **45€** w zależności od regionu\) do wykorzystania p
 {% endhint %}
 
 Po wpisaniu wyświetlona zostanie strona logowania - użyj swojego konta Microsoft lub załóż nowe. Nawet jeśli wcześniej do Twojego konta została przypisana subskrypcja Microsoft Imagine \(darmowa studencka subskrypcja\) możesz dodać do niej swoją subskrypcję z Microsoft Azure Pass.
+
+
+
+![](.gitbook/assets/image%20%287%29.png)
 
 Podanie numeru telefonu jest obowiązkowe do dwuetapowej weryfikacji użytkownika. Na podany numer otrzymasz SMS z kodem dostępu.
 
