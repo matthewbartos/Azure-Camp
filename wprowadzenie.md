@@ -4,7 +4,7 @@ description: Witaj na Azure Camp - warsztatach poświęconych chmurze Microsoft 
 
 # Wprowadzenie
 
-![](.gitbook/assets/azure_camp_cover%20%281%29.png)
+![](.gitbook/assets/azure_camp_cover_empty.jpg)
 
 ### Na dobry początek
 
@@ -18,6 +18,5 @@ Przez najbliższe 2 godziny poznasz rozwiązania, które zmienią sposób w jaki
 
 W Twojej sali znajduje się mentor, który poprowadzi Cię przez wszystkie te zadania. Nie bój się zadawać pytań - małe grupy laboratoryjne pomogą nam utrzymać kameralną atmosferę!
 
-Powodzenia,  
-M.
+Powodzenia!
 
