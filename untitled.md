@@ -9,7 +9,7 @@ Stwórzmy nowy zasób klikając na "Utwórz zasów" w lewym górnym rogu.
 Następnie wyszukajmy na Azure Marketplace zasób, który nas interesuje:
 
 ```text
-Visual Studio Community 2017 on Windows 10 Enterprise N (x64)
+Visual Studio Community 2017 on Windows Server
 ```
 
 ![](.gitbook/assets/image%20%2817%29.png)
