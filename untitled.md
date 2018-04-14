@@ -61,5 +61,5 @@ Przy konfiguracji usług pamiętaj o odpowiednich regułach **zapory firewall**.
 
 ## Skalowalność
 
-W przypadku potrzeby zmniejszenia/zwiększenia wydajności maszyny możliwa jest natychmiastowa zmiana wielkości maszyny. Spróbuj zwiększyć swoje parametry dwukrotnie.
+W przypadku potrzeby zmniejszenia/zwiększenia wydajności maszyny możliwa jest natychmiastowa zmiana wielkości maszyny. Spróbuj teraz zwiększyć zasoby Twojej maszyny - możesz zmieniać nie tylko klasę maszyny, ale także przypisane do niej dyski.
 
