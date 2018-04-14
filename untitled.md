@@ -63,3 +63,9 @@ Przy konfiguracji usług pamiętaj o odpowiednich regułach **zapory firewall**.
 
 W przypadku potrzeby zmniejszenia/zwiększenia wydajności maszyny możliwa jest natychmiastowa zmiana wielkości maszyny. Spróbuj teraz zwiększyć zasoby Twojej maszyny - możesz zmieniać nie tylko klasę maszyny, ale także przypisane do niej dyski.
 
+## Snapshot dysku
+
+Możesz tworzyć błyskawiczne obrazy dysku \(snapshot'y\), które wykorzystywane są zarówno do backup'u danych jak i tworzenia nowych maszyn wirtualnych na podstawie tego obrazu.
+
+Utwórz teraz snapshota swojej maszyny wirtualnej - Twojego miejsca pracy. 
+
