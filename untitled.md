@@ -38,7 +38,7 @@ Następnym krokiem jest połączenie się za pośrednictwem protokołu RDP - _R
 
 Aby nawiązać połączenie, połącz się z maszyną używając **publicznego adresu IP** \(widoczny na ekranie głównym zasobu\) i aplikacji obsługującej RDP:
 
-* **Windows**: _Zdalny pulpit_ \(ang. Remote desktop\),
+* **Windows**: _Podłączanie pulpitu zdalnego_ \(ang. Remote desktop\),
 * **OS X**: _Microsoft Remote Desktop_
 * **Linux**: _Remmina,_
 * **Android**: _Microsoft Remote Desktop_
