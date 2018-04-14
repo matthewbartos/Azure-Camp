@@ -12,11 +12,11 @@ Następnie wyszukajmy na Azure Marketplace zasób, który nas interesuje:
 Visual Studio Community 2017 on Windows 10 Enterprise N (x64)
 ```
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 Klikamy create i wypełniamy konfigurację:
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
 
 Następnie parametry hardware - główny składnik kosztu zasobu:
 
@@ -24,7 +24,7 @@ Następnie parametry hardware - główny składnik kosztu zasobu:
 
 Po poprawnym zakończeniu konfiguracji rozpoczyna się wdrożenie zasobu. Trwa około **5 minut**, po czym widzimy ekran podsumowania maszyny wirtualnej:
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 {% hint style="info" %}
 Podczas tworzenia maszyny wirtualnej możesz użyć istniejącej podsieci i połączyć kilka maszyn wirtualnych w sieć LAN.
