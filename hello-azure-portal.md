@@ -40,7 +40,7 @@ Możesz jednak skorzystać ze swojej znajomości Bash \(lub PowerShell\) bez opu
 
 Po kliknięciu na ikonę **&gt;\_** w dolnej części ekranu zobaczysz konsolę Azure Cloud Shell:
 
-![Kliknij ikonę &amp;gt;\_](.gitbook/assets/image%20%2814%29.png)
+![Kliknij ikonę &amp;gt;\_](.gitbook/assets/image%20%2815%29.png)
 
 {% hint style="info" %}
 **Usługa Azure Cloud Shell wymaga udziału plików platformy Azure do utrwalania plików. **Spowoduje to utworzenie nowego konta magazynu i naliczanie niewielkich miesięcznych opłat.

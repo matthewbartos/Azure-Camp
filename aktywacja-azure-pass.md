@@ -2,7 +2,7 @@
 
 ## Aktywacja kodu
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 Przejdź na stronę [https://www.microsoftazurepass.com/](https://www.microsoftazurepass.com/), na której po kliknięciu na _"Start" _pojawi się możliwość wpisania kodu otrzymanego przez Ciebie od mentora.
 
@@ -14,7 +14,7 @@ Po wpisaniu wyświetlona zostanie strona logowania - użyj swojego konta Microso
 
 
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 Podanie numeru telefonu jest obowiązkowe do dwuetapowej weryfikacji użytkownika. Na podany numer otrzymasz SMS z kodem dostępu.
 

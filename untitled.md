@@ -12,11 +12,11 @@ Następnie wyszukajmy na Azure Marketplace zasób, który nas interesuje:
 Visual Studio Community 2017 on Windows 10 Enterprise N (x64)
 ```
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2817%29.png)
 
 Klikamy create i wypełniamy konfigurację:
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 Następnie parametry hardware - główny składnik kosztu zasobu:
 
@@ -24,7 +24,7 @@ Następnie parametry hardware - główny składnik kosztu zasobu:
 
 Po poprawnym zakończeniu konfiguracji rozpoczyna się wdrożenie zasobu. Trwa około **5 minut**, po czym widzimy ekran podsumowania maszyny wirtualnej:
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
 
 {% hint style="info" %}
 Podczas tworzenia maszyny wirtualnej możesz użyć istniejącej podsieci i połączyć kilka maszyn wirtualnych w sieć LAN.
@@ -59,13 +59,23 @@ Korzystając z maszyny wirtualnej masz do dyspozycji nie tylko wybrane parametry
 
 Przy konfiguracji usług pamiętaj o odpowiednich regułach **zapory firewall**.
 
+
+
 ## Skalowalność
 
 W przypadku potrzeby zmniejszenia/zwiększenia wydajności maszyny możliwa jest natychmiastowa zmiana wielkości maszyny. Spróbuj teraz zwiększyć zasoby Twojej maszyny - możesz zmieniać nie tylko klasę maszyny, ale także przypisane do niej dyski.
 
-## Snapshot dysku
 
-Możesz tworzyć błyskawiczne obrazy dysku \(snapshot'y\), które wykorzystywane są zarówno do backup'u danych jak i tworzenia nowych maszyn wirtualnych na podstawie tego obrazu.
+
+![](.gitbook/assets/image%20%287%29.png)
+
+## Migawki dysku
+
+Możesz tworzyć błyskawiczne migawki dysku \(snapshot'y\), które wykorzystywane są zarówno do backup'u danych jak i tworzenia nowych maszyn wirtualnych na podstawie tego obrazu.
 
 Utwórz teraz snapshota swojej maszyny wirtualnej - Twojego miejsca pracy. 
+
+
+
+![](.gitbook/assets/image%20%2816%29.png)
 
